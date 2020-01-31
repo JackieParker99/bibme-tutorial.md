@@ -32,23 +32,39 @@ In this tutorial a student will learn how to enter the information and create AP
 
 3. Click on the type of citation you are using (for these instructions we are using a website)
 
-4. Copy and paste the URL into the submission box Delete this later https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
+4. Copy and paste the URL into the submission box 
 
 5. Click on "Search Website"
 
-%%%%%%%%%%%%%%%%Insert photo
-6. Click on "Select"
-%%%%%%%%%%%%%%%%%%Insert photo
-7. You will see a breakdown of what citation data was found or not found
-%%%%%%%%%%%%%%%Insert photo
-8. You will be given an opportunity to add any missing data
-%%%%%%%%%%%%%%%%%%%Insert photo
-Click "Create Citation
-9. Your citation is created and ready to copy and paste.
-%%%%%%%%%%%%%%%%Insert photo
-10. You are done!
+<p align="center">
+   <img src="https://github.com/jloan/pierce-hacker-submissions/blob/master/images/BibMe-Image1.png" >
+</p> 
 
+6. Click on "Select"
 
 <p align="center">
-  <img src="https://github.com/JackieParker99/Word-Instructions-Page-Numbers-Revision/blob/master/Word%20Page%20Number%20Snip%201.png" >
-</p>
+   <img src="https://github.com/jloan/pierce-hacker-submissions/blob/master/images/BibMe-Image2.png" >
+</p> 
+
+
+7. You will see a breakdown of what citation data was found or not found
+
+<p align="center">
+   <img src="https://github.com/jloan/pierce-hacker-submissions/blob/master/images/BibMe-Image3.png" >
+</p> 
+
+8. You will be given an opportunity to add any missing data
+
+<p align="center">
+   <img src="https://github.com/jloan/pierce-hacker-submissions/blob/master/images/BibMe-Image4.png" >
+</p> 
+
+Click "Create Citation"
+
+9. Your citation is created and ready to copy and paste.
+
+<p align="center">
+   <img src="https://github.com/jloan/pierce-hacker-submissions/blob/master/images/BibMe-Image5.png" >
+</p> 
+
+10. You are done!
